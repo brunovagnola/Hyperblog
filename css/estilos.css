@@ -3,11 +3,7 @@ body
     background: #1e1f24;
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: Courier;
-=======
     font-family: Arial;
->>>>>>> header
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -49,14 +45,8 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-
-#post
-{
-=======
 #post
 {
     background: white;
->>>>>>> header
     padding: 1em;
 }
