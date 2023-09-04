@@ -1,2 +1,2 @@
-# hyperblog
-Blog para proyecto de Platzi
+# Hyperblog
+Repositorio del curso de Git&amp;Github
